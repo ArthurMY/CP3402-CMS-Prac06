@@ -7,7 +7,7 @@ This is the weekly Journey for Practical 6
 
 ## Practical 6
 ### The S.M.A.R.T goal of Prac 6
-By the end of Practical 6, I looked for the teammate and set up the target of the group. We discussion for the work distribution. Here are the S.M.A.R.T criteria:
+By the end of Practical 6, I looked for the teammate and set up the target of the group. We discussed the work distribution. Here are the S.M.A.R.T criteria:
 
 **Specific:** 
 - Set up a private Slack channel for team communication.
@@ -16,7 +16,7 @@ By the end of Practical 6, I looked for the teammate and set up the target of th
 - Integrate the GitHub repository and Trello board with the Slack group.
 
 **Measurable:** 
-- Each team member contribute to the project by making at least one GitHub commit.
+- Each team member contributes to the project by making at least one GitHub commit.
 - There should be evidence of the GitHub and Trello integration visible in the Slack group.
 
 **Achievable:**
@@ -31,4 +31,20 @@ By the end of Practical 6, I looked for the teammate and set up the target of th
 
 
 ### Learning Journey for Practical 6
+The main task for practical 6 is to set up with the team. After setting up the team, we used Slack, Trello, and GitHub to connect all the groupmate and assign the teamwork.
 
+I watch some videos to understand the purpose of Trello and Slack.
+
+Trello: [How To Use Trello ? | Getting Started With Trello | Trello Tutorial For Beginners](https://youtu.be/sC6UwpVEEE0?si=zdscgQLWohu9lm1I)
+
+Slack: [How to Use Slack - 2023 Tutorial For Beginners](https://youtu.be/o3HJuPaITWk?si=-ZeV90WV1MEyxTbc)
+
+After I learned about it, I joined the Trello board and the Slack board that was created by groupmate.
+
+### Estimated hours
+For Pracital 6, I spent a total of 3 hours on the setup and work distribution with groupmates.
+We had a good and efficient communication, it helped us save time on discussion. 
+
+### Learning Insights
+I fought out that communication is extremely important for a group project. Also, the communication should be kept simple and easy to understand. Since we did do that and it helps our group save time on work distribution. 
+Any option is better to straight away to discuss with teammates, even that is wrong. It is fine to learn from the mistake. 
